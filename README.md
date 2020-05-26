@@ -35,7 +35,7 @@ Exemplos e testes das aulas.
 
 - TypeScript
 
-## :contact: Contato
+## Contato
 
 jeferson@datasmart.com.br
 
