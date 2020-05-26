@@ -4,7 +4,7 @@
 
 <h3 align="center">Rocketseat</h3>
 
-<p align="center">Exemplos das Aulas</p>
+<p align="center">Exemplos e Testes das Aulas</p>
 
 <p align="center">:pushpin: Jeferson Lima (Avaré - SP)</p>
 
