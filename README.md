@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/rocketseat.png" height="150" width="150" alt="RocketSeat" />
+  <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/rocketseat.png" height="620" width="1200" alt="RocketSeat" />
 </p>
 
 <h3 align="center">Rocketseat</h3>
