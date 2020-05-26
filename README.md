@@ -36,9 +36,7 @@ Exemplos e testes das aulas.
 
 ## Contato
 
-jeferson@datasmart.com.br
-
-:)
+jeferson@datasmart.com.br / jefersonsilvadelima15@gmail.com
 
 ---
 
