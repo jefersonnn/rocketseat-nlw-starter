@@ -6,7 +6,7 @@
 
 <p align="center">Exemplos das Aulas</p>
 
-<p align="center">:pushpin: Jeferson (Avaré - SP)</p>
+<p align="center">:pushpin: Jeferson Lima (Avaré - SP)</p>
 
 <br>
 
