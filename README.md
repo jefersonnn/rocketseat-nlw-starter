@@ -1,4 +1,3 @@
-# rocketseat
 <p align="center">
   <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/rocketseat.png" height="150" width="150" alt="RocketSeat" />
 </p>
