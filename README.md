@@ -16,11 +16,11 @@
 
 <br>
 
-## :memo: Apresentação
+## :memo: Detalhes
 
 Exemplos e testes das aulas.
 
-## :clipboard: Instruções
+## :clipboard: Fonte de estudo
 
 1. Semana Omnistack 11.0
 
