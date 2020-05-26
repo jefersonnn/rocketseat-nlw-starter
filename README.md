@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="#memo-apresentação">Apresentação</a>   |   <a href="#clipboard-instruções">Instruções</a>   |   <a href="#wrench-objeto-de-estudo">Objeto de Estudo</a>   |   <a href="#contact-contato">Contato</a>
+  <a href="#memo-detalhes">Detalhes</a>   |   <a href="#clipboard-fonte-de-estudo">Fonte de estudo</a>   |   <a href="#wrench-objeto-de-estudo">Objeto de Estudo</a>   |   <a href="#contact-contato">Contato</a>
 </div>
 
 <br>
