@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="#memo-detalhes">Detalhes</a>   |   <a href="#clipboard-fonte-de-estudo">Fonte de estudo</a>   |   <a href="#wrench-objeto-de-estudo">Objeto de Estudo</a>   |   <a href="#contact-contato">Contato</a>
+  <a href="#memo-detalhes">Detalhes</a>   |   <a href="#clipboard-fonte-de-estudo">Fonte de estudo</a>   |   <a href="#wrench-objeto-de-estudo">Objeto de Estudo</a>
 </div>
 
 <br>
@@ -33,10 +33,6 @@ Exemplos e testes das aulas.
 - React & ReactJS
 
 - TypeScript
-
-## Contato
-
-jeferson@datasmart.com.br / jefersonsilvadelima15@gmail.com
 
 ---
 
