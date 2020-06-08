@@ -27,10 +27,6 @@ Exemplos e testes das aulas.
 2. Next level week - Starter (Ecoleta)
 
  <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/ecoleta-index.png" height="471" width="960" alt="RocketSeat" />
- 
- <p align="center">Cadastro</p>
- 
-  <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/ecoleta-create.png" height="471" width="960" alt="RocketSeat" />
 
 ## :wrench: Objeto de estudo
 
