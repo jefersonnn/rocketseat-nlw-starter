@@ -26,6 +26,8 @@ Exemplos e testes das aulas.
 
 2. Next level week
 
+ <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/ecoleta-index.png" height="942" width="1920" alt="RocketSeat" />
+
 ## :wrench: Objeto de estudo
 
 - JavaScript
