@@ -24,7 +24,7 @@ Exemplos e testes das aulas.
 
 1. Semana Omnistack 11.0
 
-2. Next level week
+2. Next level week - Starter (Ecoleta)
 
  <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/ecoleta-index.png" height="471" width="960" alt="RocketSeat" />
 
