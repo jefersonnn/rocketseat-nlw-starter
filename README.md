@@ -22,9 +22,7 @@ Exemplos e testes das aulas.
 
 ## :clipboard: Fonte de estudo
 
-1. Semana Omnistack 11.0
-
-2. Next level week - Starter (Ecoleta)
+1. Next level week - Starter (Ecoleta)
 
  <img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/ecoleta-index.png" height="471" width="960" alt="RocketSeat" />
 
@@ -35,8 +33,6 @@ Exemplos e testes das aulas.
 - Node.js
 
 - React & ReactJS
-
-- TypeScript
 
 ---
 
